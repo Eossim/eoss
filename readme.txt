@@ -1,2 +1,2 @@
 Hello World!
-add some different to stage;
+this repository is setup for learn git;
