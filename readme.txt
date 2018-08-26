@@ -1,3 +1,2 @@
 Hello World!
-
-this repository is setup for learn git;
+this is an repository setup for learn git.
