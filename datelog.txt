@@ -1,4 +1,4 @@
 2018-8-28
 2018-8-29
 2018-8-31 learn about closure
-
+2018-9-1 learn about module
