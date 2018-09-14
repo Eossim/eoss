@@ -6,3 +6,4 @@
 2018-9-3 learn about ajax lazyLoad and waterFall
 2018-9-4 learn about vue bootstrap and react
 2018-9-13 learn about angular
+2018-9-14 learn about prototype
