@@ -8,3 +8,5 @@
 2018-9-13 learn about angular
 2018-9-14 learn about prototype
 2018-9-15 learn about prototype
+2018-9-22 learn about typeCasing and coercion
+
